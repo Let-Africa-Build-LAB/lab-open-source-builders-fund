@@ -8,14 +8,22 @@ By supporting early-stage technical experimentation, the fund helps transform pr
 
 ## Fund Focus
 
-We are particularly interested in projects building:
+The LAB Open Source Builder Fund supports developers building open infrastructure across the Bitcoin ecosystem. Builders are encouraged to submit projects exploring areas such as:
 
-- Bitcoin developer tooling
-- Lightning infrastructure
-- Wallet infrastructure and integrations
-- Payment rails and financial infrastructure
-- Bitcoin Layer 2 experimentation, including Stacks
-- Open-source financial tools
+**Bitcoin Developer Tooling**
+Developer libraries, SDKs, testing frameworks, node tools, and developer infrastructure that improve the Bitcoin builder experience.
+
+**Lightning Infrastructure**
+Tools, analytics, routing utilities, or services that improve Lightning Network usability and reliability.
+
+**Wallet and Payment Infrastructure**
+Wallet tooling, payment SDKs, custody tools, and APIs enabling Bitcoin-based payments and financial applications.
+
+**Bitcoin Data Infrastructure**
+Indexers, explorers, analytics tools, and programmable data layers that enable new applications and developer experimentation.
+
+**Bitcoin Layer-2 Tooling**
+Developer tools and infrastructure supporting Bitcoin Layer-2 ecosystems such as Stacks.
 
 ## Eligibility
 
