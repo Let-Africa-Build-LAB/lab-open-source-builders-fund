@@ -60,12 +60,12 @@ The first builder cohort is currently being assembled.
 The fund is powered by Artizen and begins with an initial $20,000 matching pool to support early builders emerging from the LAB ecosystem.
 
 ## How To Apply
-Builders interested in the LAB Open Source Builders Fund can apply through the official LAB builder [application form](https://letafricabuild.com/builders-fund).
+Builders interested in the LAB Open Source Builders Fund **must** apply through the official LAB builder [application form](https://blocksurvey.io/gH4orr7_RReKu8ZOFU2h0w?v=o).
 
-Developers who prefer to submit via GitHub may open a project proposal using [this template](https://github.com/Let-Africa-Build-LAB/.github/blob/main/ISSUE_TEMPLATE/builder-project-proposal.md).
+Applicants **must** also submit a project proposal through GitHub using [this template](https://github.com/Let-Africa-Build-LAB/.github/blob/main/ISSUE_TEMPLATE/builder-project-proposal.md). An application with only one of the two is incomplete.
 
-Please note that Selected projects will be asked to submit their project on the LAB Artizen Fund Page to participate in the matching pool.
+Please note that selected projects will be **required** to submit their project on the LAB Artizen Fund Page to participate in the matching pool.
 
 ## Learn More
-- To learn more about the LAB Open Source Builders Fund, please visit our [official Builders Fund](https://letafricabuild.com/builders-fund) page.
+- To learn more about the LAB Open Source Builders Fund, please visit our [official Builders Fund](https://letafricabuild.com/fund) page.
 - To sponsor the LAB Open Source Builders Fund Pool kindly visit the [Artizen fund](https://artizen.fund/index/mf/lab-open-source-builders-fund?season=6&scroll=no) page.
